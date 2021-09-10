@@ -1,7 +1,9 @@
 # JavaScript Challenge: Password Generator
 
-## URLs:
+## Application URL:
 https://missystiner.github.io/password-generator/
+
+## GitHub URL:
 https://github.com/MissyStiner/password-generator
 
 ## Project Description
@@ -31,6 +33,5 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Mock-Up
 ![https://courses.bootcampspot.com/courses/715/files/723415/preview]
-<img src="https://courses.bootcampspot.com/courses/715/files/723415/preview" alt="password generator demo" tabindex="0">
 
 
